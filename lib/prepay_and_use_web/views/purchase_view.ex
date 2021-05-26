@@ -1,3 +1,3 @@
-defmodule C4mWeb.PurchaseView do
-  use C4mWeb, :view
+defmodule PrepayAndUseWeb.PurchaseView do
+  use PrepayAndUseWeb, :view
 end
