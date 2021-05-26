@@ -1,6 +1,6 @@
 # Prepay and Use
 
-This module sets up Stripe for 'prepay and use'.
+This 'prepay and use' module sets up a site that takes a fixed amount of money from the user at the beginning of some period and then uses the money to pay for ongoing usage. When the money runs out, the site again takes another fixed amount. The user can decide how much to pay. One example of such service could be a phone-card.
 
 ## Implementation
 
